@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <?php echo "hello" ?>
+    <?php echo "hong hello nữa" ?>
 </body>
 
 </html>
