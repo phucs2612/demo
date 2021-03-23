@@ -1,0 +1,9 @@
+C:\Users\User\OpenGL\LogIn\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\User\OpenGL\LogIn\LogIn\bin\Debug\LogIn.exe
+C:\Users\User\OpenGL\LogIn\LogIn\bin\Debug\LogIn.pdb
+C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.csprojResolveAssemblyReference.cache
+C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.Form1.resources
+C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.csproj.GenerateResource.Cache
+C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.exe
+C:\Users\User\OpenGL\LogIn\LogIn\obj\Debug\LogIn.pdb
